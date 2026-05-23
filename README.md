@@ -20,3 +20,7 @@ An intelligent resume screening system using NLP and Machine Learning to rank re
 
 ```bash
 streamlit run app.py
+
+## Project Output
+
+![Result](screenshots/output.png)
